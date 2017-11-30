@@ -1,10 +1,6 @@
-#!/Users/axelwidmark/anaconda/bin/python
 import matplotlib.pyplot as plt
 import numpy as np
-import scipy as sp
-from scipy.optimize import minimize
 import math
-from scipy.integrate import dblquad
 import random
 pi=math.pi
 
